@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a senior software engineer with over 12 years of experience, including co-founder of a startup called Appontar, tech-lead and an agile evangelist.
+I'm a senior software engineer with over 12 years of experience, including co-founder of a startup called Appontar, tech-lead and an agile enthusiast.
 
 Currently working as Engineering Manager at VEHICULUM, Germany’s largest car leasing platform.
 
