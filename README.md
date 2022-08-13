@@ -8,4 +8,4 @@ Prior to that, I worked in several mid to large size companies such as Macy's, B
 
 Since 2017 I've been living in Berlin, Germany.
 
-Current stack and technologies: Ruby on Rails, PostgreSQL, Redis, Javascript/Vue.js and React, Docker, Kubernetes, Elasticsearch and AWS.
+Current stack and technologies: Ruby on Rails, PostgreSQL, Redis, Javascript/Vue.js and React, Docker, Kubernetes, Elasticsearch, Terraform and AWS.
