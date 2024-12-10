@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I’m a software engineer from Brazil with over 15 years of experience. Currently, I am a Staff Engineer at [MONDU](https://www.mondu.ai/), the German-leading “Buy Now, Pay Later” platform for B2B.
+I’m a seasoned professional in the field of software engineering and management. With a diverse background in various companies, I’ve held roles ranging from Co-Founder & Tech-Lead to Engineering Manager. I’ve also worked as a consultant for Macy’s and GAP.
 
-Since 2017 I have been living in Berlin, Germany.
+With a solid educational background including a Master of Business Administration (MBA) in Information Technology, I bring a unique blend of technical expertise and strategic business thinking to every project and role. My international work experience has further enhanced my ability to collaborate across cultural and technological boundaries.
