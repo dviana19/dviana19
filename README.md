@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-I’m a seasoned professional in the field of software engineering and management. With a diverse background in various companies, I’ve held roles ranging from Co-Founder & Tech-Lead to Engineering Manager. I’ve also worked as a consultant for Macy’s and GAP.
+I’m a seasoned software engineering and management professional with over 15 years of experience. My career spans a variety of roles, including Co-Founder, Tech Lead, Engineering Manager, and Consultant for companies like Macy’s and GAP.
 
-With a solid educational background including a Master of Business Administration (MBA) in Information Technology, I bring a unique blend of technical expertise and strategic business thinking to every project and role. My international work experience has further enhanced my ability to collaborate across cultural and technological boundaries.
+I hold a Master of Business Administration (MBA) in Information Technology, which gives me both technical expertise and strategic business skills. My international experience has also helped me work effectively across cultural and technical differences.
+
+I’m passionate about software architecture, automation, and engineering best practices, always aiming to deliver efficient, well-structured solutions.
